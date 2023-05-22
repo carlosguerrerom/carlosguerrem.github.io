@@ -1,0 +1,47 @@
+@charset "utf-8";
+@import url("CreteRound_Regular/stylesheet.css");
+@import url("Arial_Rounded_MT/stylesheet.css");
+
+header h1 {
+    width: auto;
+    color: rgba(253,224,255,1.00);
+    text-align: center;
+    font-size: 44px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "CreteRound Regular";
+}
+nav ul li {
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+    width: 73px;
+    height: 0px;
+    margin-left: 20px;
+    border-radius: 40px;
+    border: 2px solid rgba(236,133,152,1.00);
+}
+nav {
+    background-color: rgba(255,197,236,1.00);
+}
+main {
+    background-color: rgba(252,223,255,1.00);
+}
+main section {
+    background-color: rgba(227,131,227,1.00);
+}
+footer {
+    background-color: rgba(111,8,121,1.00);
+}
+footer h5 {
+    color: rgba(252,223,255,1.00);
+    text-align: center;
+    font-family: abel;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+
